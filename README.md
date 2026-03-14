@@ -1,4 +1,4 @@
-# Analysis of 5-Dimensional Topological Manifold Interaction
+## Analysis of 5-Dimensional Topological Manifold Interaction
 
 This study documents the interaction between a 5-dimensional hypersphere and a 3-dimensional Euclidean space. By utilizing an SO(5) rotation model and a dual-axis dimensional dive (W and V axes), we have quantified the observable physical perturbations within a laboratory sensor grid.
 
