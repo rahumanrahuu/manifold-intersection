@@ -88,11 +88,9 @@ As the entity retreats back into the 5D bulk, the object would shrink back into 
 ## References
 
 1. **Coxeter, H. S. M.** (1973). *Regular Polytopes*. Dover Publications.
-2. **Kaluza, T.** (1921). "Zum Unitätsproblem der Physik". *Sitzungsberichte der Preussischen Akademie der Wissenschaften*.
-3. **Klein, O.** (1926). "Quantentheorie und fünfdimensionale Relativitätstheorie". *Zeitschrift für Physik*.
-4. **Banchoff, T. F.** (1990). *Beyond the Third Dimension*. Scientific American Library.
-5. **Zhang, S. C.** (1997). "A Unified Theory Based on SO(5) Symmetry of Superconductivity and Antiferromagnetism". *Science*.
-6. **Hollasch, S. R.** (1991). *Four-Dimensional Higher-Order Computer Graphics*. Arizona State University.
+2. **Banchoff, T. F.** (1990). *Beyond the Third Dimension*. Scientific American Library.
+3. **Zhang, S. C.** (1997). "A Unified Theory Based on SO(5) Symmetry of Superconductivity and Antiferromagnetism". *Science*.
+4. **Hollasch, S. R.** (1991). *Four-Dimensional Higher-Order Computer Graphics*. Arizona State University.
 
 ---
 
