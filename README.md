@@ -71,7 +71,7 @@ As the entity moves closer to our 3D slice (decreasing its $|w|$ and $|v|$ coord
 - The entity doesn't enter through a door. It materializes from the "inside out," starting as a microscopic point that rapidly inflates into a solid 3D shape as it "dives" into our dimension.
 
 ### 3. Intersection
-If the 5D entity were to move through a solid 3D object, like a laboratory chair, it would result in a topological paradox.
+If the 5D entity were to move through a solid 3D object, like a chair, it would result in a topological paradox.
 - The chair wouldn't be smashed; it would appear to be "swallowed" or sliced by a perfectly smooth, shimmering surface. To the 5D being, the chair is like a 2D drawing on a piece of paper—it can simply "step over" the 3D matter through the extra dimensions.
 - Because the 5D being sees the 3D chair from "above" in higher space, it can see the exterior and interior simultaneously. It could reach in and remove a screw from the center of a chair leg without ever touching the wood on the outside.
 
