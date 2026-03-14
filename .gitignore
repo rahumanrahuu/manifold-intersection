@@ -1,0 +1,7 @@
+venv/
+venv5d/
+__pycache__/
+*.pyc
+.DS_Store
+# output_json/
+# results/
